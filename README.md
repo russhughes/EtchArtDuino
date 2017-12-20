@@ -2,6 +2,8 @@
 
 # EtchArtDuino
 
+![](https://raw.githubusercontent.com/russhughes/EtchArtDuino/master/images/IMG_0001_preview_featured.jpeg)
+
 
 ## Description
 
